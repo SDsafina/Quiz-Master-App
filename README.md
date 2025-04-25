@@ -5,7 +5,7 @@ Quiz Master is a structured quiz management system designed for admin-led quiz c
 
 ## Technologies Used:
 *Flask (Python)
--Jinja2
+*-Jinja2
 -SQLite
 -HTML 
 -CSS 
